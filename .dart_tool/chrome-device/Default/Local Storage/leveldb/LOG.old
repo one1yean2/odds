@@ -1,0 +1,20 @@
+2024/03/16-01:13:55.519 c47c Reusing MANIFEST C:\Users\oneda\AppData\Local\Temp\flutter_tools.a8b0ac28\flutter_tools_chrome_device.c0abdb53\Default\Local Storage\leveldb/MANIFEST-000001
+2024/03/16-01:13:55.525 c47c Recovering log #16
+2024/03/16-01:13:55.527 c47c Reusing old log C:\Users\oneda\AppData\Local\Temp\flutter_tools.a8b0ac28\flutter_tools_chrome_device.c0abdb53\Default\Local Storage\leveldb/000016.log 
+2024/03/16-01:13:55.528 c47c Delete type=0 #3
+2024/03/16-01:13:55.528 c47c Delete type=0 #4
+2024/03/16-01:13:55.528 c47c Delete type=0 #7
+2024/03/16-01:13:55.528 c47c Delete type=0 #10
+2024/03/16-01:13:55.528 c47c Delete type=0 #13
+2024/03/16-01:15:08.981 d10 Level-0 table #20: started
+2024/03/16-01:15:08.990 d10 Level-0 table #20: 31822 bytes OK
+2024/03/16-01:15:08.992 d10 Delete type=0 #16
+2024/03/16-01:15:08.993 c47c Compacting 4@0 + 1@1 files
+2024/03/16-01:15:08.998 c47c Generated table #21@0: 30 keys, 13429 bytes
+2024/03/16-01:15:08.998 c47c Compacted 4@0 + 1@1 files => 13429 bytes
+2024/03/16-01:15:08.999 c47c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/16-01:15:09.001 c47c Delete type=2 #8
+2024/03/16-01:15:09.002 c47c Delete type=2 #11
+2024/03/16-01:15:09.002 c47c Delete type=2 #14
+2024/03/16-01:15:09.002 c47c Delete type=2 #17
+2024/03/16-01:15:09.002 c47c Delete type=2 #20
