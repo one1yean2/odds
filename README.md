@@ -1,6 +1,6 @@
 # How to run
 
-กด Link [SortingHatweb](https://odds-8mva-506w92szh-wannueng-yoosomboons-projects.vercel.app/)
+กด Link [SortingHatweb](https://odds-8mva-506w92szh-wannueng-yoosomboons-projects.vercel.app/](https://odds-8mva-wannueng-yoosomboons-projects.vercel.ap)
 Enjoy !
 
 # How to use
