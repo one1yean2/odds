@@ -12,4 +12,4 @@ Enjoy !
 <br>
 4 . กดที่ card สถาบันเพื่อดู list รายชื่อ
 <br>
-(optional) Game ที่ appbar 
+(addon) Game ที่ appbar 
