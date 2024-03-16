@@ -1,3 +1,3 @@
-# odds
+# How to run
 
-A new Flutter project.
+กด Link href=https://odds-8mva.vercel.app/
